@@ -89,6 +89,7 @@ teams:
       - cvarjao
       - fc-santos
       - jcdrouin21
+      - KjartanE
       - MacDeluca
       - MosCD3
       - LippaC-OPS
@@ -305,7 +306,7 @@ teams:
       - ryjones
   - name: tac
     maintainers:
-      - aceshim 
+      - aceshim
       - skounis
     members:
       - bryanwche
