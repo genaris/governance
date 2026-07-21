@@ -184,6 +184,7 @@ teams:
       - ryjones
     members:
       - NSouthernLF
+      - estherrgarcia
   - name: lf-employees
     maintainers:
       - ryjones
